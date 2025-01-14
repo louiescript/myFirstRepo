@@ -1,12 +1,13 @@
 #include <iostream>
+#include <print>
 
 int main()
 {
 
-	string new_name{ "Welcome Brother" };
+	string name_1{ "Welcome Brother" };
+	string name_2{ "Welcome Sister" };
 
-
-	print_num(new_name);
+	std::print_ln("{}{}"name_1,name_2);
 
 
 }
