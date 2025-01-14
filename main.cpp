@@ -9,5 +9,7 @@ int main()
 
 	std::print_ln("{}{}"name_1,name_2);
 
+	std::println("Welcome all");
+
 
 }
