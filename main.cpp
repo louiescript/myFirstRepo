@@ -4,8 +4,8 @@
 int main()
 {
 
-	string name_1{ "Welcome Brother" };
-	string name_2{ "Welcome Sister" };
+	string name_1{ "Welcome Adam" };
+	string name_2{ "Welcome Eve" };
 
 	std::print_ln("{}{}"name_1,name_2);
 
